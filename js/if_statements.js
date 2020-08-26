@@ -28,6 +28,7 @@ else
 
 
 // Logical operators OR || AND &&
+// This is a valid email adress checker
 
 let email = 'test.mail@testmail.com';
 
