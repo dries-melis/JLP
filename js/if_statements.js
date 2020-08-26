@@ -18,3 +18,4 @@ if(password.length >= 8)
 } else
 {
     console.log('This password isn\'t long enough');
+}
