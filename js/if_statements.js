@@ -40,10 +40,11 @@ else if(email.includes('@') && ! email.includes('.'))
 {
     console.log('There must be a period (.) in a email adress!!');
 } 
-else if(! email.includes('@') && email.includes('.'))
+else if(! email.includes('@') && email.includes('.')) // The ! means: if not include('@)
 {
     console.log('There must be a @ in a email adress!!');
 } else
 {
     console.log('This isn\'t a corect email adress!!')
 }
+
