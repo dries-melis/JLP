@@ -1,5 +1,7 @@
 //// object literals ////
 
+
+
 // You can make an object with curly braces
 
 let book = {
