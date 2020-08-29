@@ -1,7 +1,19 @@
-.center-list {
-    text-align: center;
+html, body {
+    height: 100%;
+  }
+
+div.outer-container {
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    
 }
-.center-container {
-    margin-top: auto;
-    margin-bottom: auto;
+div.outer-container p {
+    margin: 0 
+}
+
+.flexbutton {
+    margin:5px;
 }
