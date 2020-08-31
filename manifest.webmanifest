@@ -1,0 +1,21 @@
+
+{
+  "name": "Click The Button",
+  "short_name": "Button Clicker",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A Button to Click on.",
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "sizes": "320x320",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logo.png",
+      "sizes": "320x320",
+      "type": "image/png"
+    }
+  ]
+}
