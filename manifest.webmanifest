@@ -4,7 +4,7 @@
   "short_name": "Button Clicker",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "#0E9400",
   "description": "A Button to Click on.",
   "icons": [
     {
